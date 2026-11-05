@@ -54,7 +54,7 @@ This dashboard helps users:
 - Explore business performance using interactive filters.
 
 ## 📷 Dashboard Preview
-![Excel Sales and Profitability Dashboard](Dashboard.png)
+![Excel Sales and Profitability Dashboard](Excel_Sales_Profit_Dashboard.png)
 
 ## 🎓 Skills Demonstrated
 
